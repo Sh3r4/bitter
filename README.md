@@ -1,2 +1,3 @@
 # bitter
-small utility for helping with custom protocols
+
+small helper library for helping build custom protocols
